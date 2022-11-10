@@ -1,0 +1,21 @@
+.clock {
+   
+    height: 300px;
+    width: 500px;
+    background-color: black;
+    color: #17D4FE;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.slide img {
+    width: 700px;
+    height: 400px;
+}
+
